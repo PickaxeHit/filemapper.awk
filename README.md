@@ -72,3 +72,5 @@ $ tree
 
 9 directories, 7 files
 ```
+
+If you want to see what will happen without any changes, just commenting line 112 and 132 (`system(x)`). Only print the command without execution.
